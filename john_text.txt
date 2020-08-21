@@ -1,3 +1,6 @@
 adding another line by amber repo
 second line added
 third line added amber
+
+hello adding first line john repo
+
